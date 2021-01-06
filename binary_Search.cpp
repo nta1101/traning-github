@@ -24,3 +24,4 @@ int main()
 	cout <<  "phan tu nam o vi tri so " << binarySearch(arr, 0, n - 1, x);
 	return 0; 
 } 
+// ahihi
